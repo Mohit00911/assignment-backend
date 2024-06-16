@@ -1,0 +1,33 @@
+
+------------Technologies Used---------------
+
+Frontend: Next.js
+Backend: Express.js
+Database: MongoDB
+Styling: CSS
+API: RESTful API
+Deployment: Vercel (Backend)
+
+
+-------------Setup Procedures--------------
+
+Follow these steps to set up the project locally:
+1.git clone https://github.com/Mohit00911/assignment-backend.git
+2.cd assignment-backend
+
+
+-----------Install Dependencies------------
+
+1.cd backend
+2.npm install
+
+
+---------Start the Development Servers------------
+
+1.cd backend
+2.npm start
+
+
+-------------Access the Application--------------
+
+Open your browser and go to http://localhost:3000 to access the Koinpr Marketplace application.
